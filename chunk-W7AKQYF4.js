@@ -1,0 +1,1 @@
+import{Y as a}from"./chunk-VC2T4SAQ.js";var o=class t{cart=[];addToCart(r){this.cart.push(r)}getCart(){return this.cart}constructor(){}static \u0275fac=function(c){return new(c||t)};static \u0275prov=a({token:t,factory:t.\u0275fac,providedIn:"root"})};export{o as a};

@@ -1,0 +1,1 @@
+import{Eb as p,ea as n,jb as o,kb as i,zb as r}from"./chunk-VC2T4SAQ.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-single-product"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,c){e&1&&(o(0,"p"),r(1,"single-product works!"),i())}})};export{s as SingleProductComponent};

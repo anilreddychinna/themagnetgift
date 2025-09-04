@@ -1,0 +1,1 @@
+import{Eb as s,ea as t,jb as o,kb as p,zb as i}from"./chunk-VC2T4SAQ.js";var a=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["app-signup"]],standalone:!0,features:[s],decls:2,vars:0,template:function(e,r){e&1&&(o(0,"p"),i(1,"signup works!"),p())}})};export{a as SignupComponent};
